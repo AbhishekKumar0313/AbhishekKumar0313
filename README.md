@@ -43,12 +43,28 @@
 
 ### Technologies  
 <div align="center">  
-<img style="margin: 10px" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/machine-learning-1952515-1649529.png?f=webp&w=256" alt="ML" height="50" >Machine Learning</img> </br>
-<img style="margin: 10px" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/deep-learning-1524361-1290736.png?f=webp&w=256" alt="DL" height="50" /> Deep Learning</img> </br>
-<img style="margin: 10px" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/nlp-8926384-7279481.png?f=webp&w=256" alt="NLP" height="50" />Natual Language Processing</img>  </br>
-<img style="margin: 10px" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/data-science-4620152-3822428.png?f=webp&w=256" alt="DS" height="50" />Data Science</img>  </br>
-<img style="margin: 10px" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/frontend-programming-3919138-3246409.png?f=webp&w=256" alt="Bash" height="50" />FrontEnd/Canva/Designing</img>
-</div></td></tr></table>  
+    <div style="display: flex; align-items: center;">
+        <img style="margin-right: 10px;" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/machine-learning-1952515-1649529.png?f=webp&w=256" alt="ML" height="50">
+        <span style="margin-right: 10px;">Machine Learning</span>
+    </div>
+    <div style="display: flex; align-items: center;">
+        <img style="margin-right: 10px;" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/deep-learning-1524361-1290736.png?f=webp&w=256" alt="DL" height="50">
+        <span style="margin-right: 10px;">Deep Learning</span>
+    </div>
+    <div style="display: flex; align-items: center;">
+        <img style="margin-right: 10px;" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/nlp-8926384-7279481.png?f=webp&w=256" alt="NLP" height="50">
+        <span style="margin-right: 10px;">Natural Language Processing</span>
+    </div>
+    <div style="display: flex; align-items: center;">
+        <img style="margin-right: 10px;" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/data-science-4620152-3822428.png?f=webp&w=256" alt="DS" height="50">
+        <span style="margin-right: 10px;">Data Science</span>
+    </div>
+    <div style="display: flex; align-items: center;">
+        <img style="margin-right: 10px;" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/frontend-programming-3919138-3246409.png?f=webp&w=256" alt="Bash" height="50">
+        <span style="margin-right: 10px;">FrontEnd/Canva/Designing</span>
+    </div>
+</div>
+</td></tr></table>  
 
 ## About Me
 - 🎓 I'm currently pursuing a degree in [Your Education Program/Field].
