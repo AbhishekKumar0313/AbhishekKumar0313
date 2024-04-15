@@ -54,11 +54,10 @@
 </td></tr></table>  
 
 ## About Me
-- 🎓 I'm currently pursuing a degree in [Your Education Program/Field].
-- 💼 I'm working on [Your Current Project/Work].
-- 🌱 I’m continuously learning and exploring new technologies.
+- 🎓 I'm currently pursuing a degree in Master of Computer Application from the National Institute of Technology Kurukshetra.
+- 💼 I'm working on Data Science, Data Analysis, and Model Development End to End.
+- 🌱 I’m continuously learning and exploring new technologies related AI like LLM and Mlops.
 - 🤝 I’m open to collaborating on projects and always looking to learn from others.
-- 📫 You can reach me at [Your Contact Information].
 
 ## Projects
 Here are some of my projects:
