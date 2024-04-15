@@ -3,7 +3,7 @@
 # Hi Folks, I'm Abhishek! 👋
 
 Welcome to my GitHub profile! I'm passionate about technology and love building cool projects. Here's a bit about me:
-![Banner][https://github.com/AbhishekKumar0313/AbhishekKumar0313/blob/main/Hii%20!%20I%20am%20Abhishek.png]
+![Banner](https://github.com/AbhishekKumar0313/AbhishekKumar0313/blob/main/Hii%20!%20I%20am%20Abhishek.png)
 
 ## About Me
 - 🎓 I'm currently pursuing a degree in [Your Education Program/Field].
