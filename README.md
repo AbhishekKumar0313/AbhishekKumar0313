@@ -43,7 +43,7 @@
 
 ### DevOps  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/machine-learning-1952515-1649529.png?f=webp&w=256" alt="AWS" height="50" >Machine Learning</img>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
