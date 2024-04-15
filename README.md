@@ -43,25 +43,20 @@
 
 ### Technologies  
 <div style="text-align: center;">
-    <div style="display: flex; justify-content: flex-end; align-items: center; margin-bottom: 10px;">
-        <span style="margin-right: 10px;">Machine Learning</span>
-        <img style="margin-left: 10px;" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/machine-learning-1952515-1649529.png?f=webp&w=256" alt="ML" height="50">
+    <div style="display: inline-block; margin: 10px;">
+        <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/machine-learning-1952515-1649529.png?f=webp&w=256" alt="ML" height="50">
     </div>
-    <div style="display: flex; justify-content: flex-end; align-items: center; margin-bottom: 10px;">
-        <span style="margin-right: 10px;">Deep Learning</span>
-        <img style="margin-left: 10px;" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/deep-learning-1524361-1290736.png?f=webp&w=256" alt="DL" height="50">
+    <div style="display: inline-block; margin: 10px;">
+        <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/deep-learning-1524361-1290736.png?f=webp&w=256" alt="DL" height="50">
     </div>
-    <div style="display: flex; justify-content: flex-end; align-items: center; margin-bottom: 10px;">
-        <span style="margin-right: 10px;">Natural Language Processing</span>
-        <img style="margin-left: 10px;" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/nlp-8926384-7279481.png?f=webp&w=256" alt="NLP" height="50">
+    <div style="display: inline-block; margin: 10px;">
+        <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/nlp-8926384-7279481.png?f=webp&w=256" alt="NLP" height="50">
     </div>
-    <div style="display: flex; justify-content: flex-end; align-items: center; margin-bottom: 10px;">
-        <span style="margin-right: 10px;">Data Science</span>
-        <img style="margin-left: 10px;" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/data-science-4620152-3822428.png?f=webp&w=256" alt="DS" height="50">
+    <div style="display: inline-block; margin: 10px;">
+        <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/data-science-4620152-3822428.png?f=webp&w=256" alt="DS" height="50">
     </div>
-    <div style="display: flex; justify-content: flex-end; align-items: center; margin-bottom: 10px;">
-        <span style="margin-right: 10px;">FrontEnd/Canva/Designing</span>
-        <img style="margin-left: 10px;" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/frontend-programming-3919138-3246409.png?f=webp&w=256" alt="Bash" height="50">
+    <div style="display: inline-block; margin: 10px;">
+        <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/frontend-programming-3919138-3246409.png?f=webp&w=256" alt="Bash" height="50">
     </div>
 </div>
 
