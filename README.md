@@ -29,7 +29,7 @@
  
 <img style="margin: 10px" src="https://github.com/AbhishekKumar0313/AbhishekKumar0313/assets/99200063/cfecebbf-adeb-42e9-a237-8cbc3b68ef00" alt="vscode" height="50" />  
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" height="50" />  
-<img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-icon.png" alt="github" height="50" />  
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="github" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/66px-Jupyter_logo.svg.png" alt="jupyter lab" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" alt="google colab" height="50" />  
 <img style="margin: 10px" src="https://img-blog.csdnimg.cn/d15bbd340c044076954e377c98d52322.png" alt="jupyter notebook" height="50" />  
