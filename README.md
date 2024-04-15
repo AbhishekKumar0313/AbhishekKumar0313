@@ -4,7 +4,7 @@
 [![MasterHead](https://github.com/AbhishekKumar0313/AbhishekKumar0313/blob/main/Hii%20!%20I%20am%20Abhishek.png)](https://github.com/AbhishekKumar0313)
 ### Welcome to my GitHub profile! I'm passionate about technology and love building cool projects. Here's a bit about me:
 
-
+<table><tr><td valign="top" width="33%">
 ### Languages
 <div align="center">  
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" height="50" />  
