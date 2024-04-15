@@ -8,25 +8,26 @@
    
 ### Languages and Libraries
 <div align="center">  
-<img style="margin: 10px margin-right: 20px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" height="50" />  
-<img style="margin: 10px margin-right: 20px" src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" height="50" />  
-<img style="margin: 10px margin-right: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="50" />  
-<img style="margin: 10px margin-right: 20px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" height="50" />  
-<img style="margin: 10px margin-right: 20px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" height="50" />  
-<img style="margin: 10px margin-right: 20px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" height="50" />  
-<img style="margin: 10px margin-right: 20px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="Css" height="50" />  
-<img style="margin: 10px margin-right: 20px" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Numpy" height="50" />  
-<img style="margin: 10px margin-right: 20px" src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" height="50" /> 
-<img style="margin: 10px margin-right: 20px" src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" alt="Matplotlib" height="50" />  
-<img style="margin: 10px margin-right: 20px" src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="Seaborn" height="50" /> 
-<img style="margin: 10px margin-right: 20px" src="https://icon.icepanel.io/Technology/svg/Ploty.svg" alt="Seaborn" height="50" /> 
-   
+    <img style="margin: 10px 20px;" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" height="50" />  
+    <img style="margin: 10px 20px;" src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" height="50" />  
+    <img style="margin: 10px 20px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="50" />  
+    <img style="margin: 10px 20px;" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" height="50" />  
+    <img style="margin: 10px 20px;" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" height="50" />  
+    <img style="margin: 10px 20px;" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" height="50" />  
+    <img style="margin: 10px 20px;" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="Css" height="50" />  
+    <img style="margin: 10px 20px;" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Numpy" height="50" />  
+    <img style="margin: 10px 20px;" src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" height="50" /> 
+    <img style="margin: 10px 20px;" src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" alt="Matplotlib" height="50" />  
+    <img style="margin: 10px 20px;" src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="Seaborn" height="50" /> 
+    <img style="margin: 10px 20px;" src="https://icon.icepanel.io/Technology/svg/Ploty.svg" alt="plotly" height="50" /> 
+</div>
+
 </div></td><td valign="top" width="33%">
 
-### Tools  
+### Tools and OS
 <div align="center">  
  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="vscod" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
