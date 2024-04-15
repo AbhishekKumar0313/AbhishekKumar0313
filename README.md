@@ -1,7 +1,6 @@
 <!-- Your Banner Here (You can use an image or ASCII art) -->
 
 # Hi Folks, I'm Abhishek! 👋 
-![Banner](https://github.com/AbhishekKumar0313/AbhishekKumar0313/blob/main/Hii%20!%20I%20am%20Abhishek.png)
 [![MasterHead](https://github.com/AbhishekKumar0313/AbhishekKumar0313/blob/main/Hii%20!%20I%20am%20Abhishek.png)](https://github.com/AbhishekKumar0313)
 ### Welcome to my GitHub profile! I'm passionate about technology and love building cool projects. Here's a bit about me:
 
