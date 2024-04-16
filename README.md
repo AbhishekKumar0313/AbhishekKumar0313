@@ -93,7 +93,7 @@ Here are some of my projects:
 <a href="https://www.linkedin.com/in/abhishek-kumar-265a03229/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<p>To email me, click <a href="mailto:abhishekkumarofficial1303@gmail.com" style="text-decoration: none; color: blue;">here</a>.</p>
+<p>To email me, click <a href="mailto:abhishekkumarofficial1303@gmail.com" style="text-decoration: none; color: blue;">abhishekkumarofficial1303@gmail.com</a>.</p>
 </div> 
 </p>
 Let's build something awesome together! 😄
