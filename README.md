@@ -93,9 +93,8 @@ Here are some of my projects:
 <a href="https://www.linkedin.com/in/abhishek-kumar-265a03229/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href= target="_blank">
-abhishekkumarofficial1303@gmail.com
-   <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="abhishekkumarofficial1303@gmail.com" target="_blank">
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-email-2026367-1713640.png?f=webp&w=256"&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div> 
 </p>
