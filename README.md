@@ -39,6 +39,7 @@
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" height="50" />  
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" alt="Windows" height="50" />  
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" height="50" />  
 </div></td><td valign="" width="">
 
 ### Technologies  
