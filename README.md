@@ -94,7 +94,6 @@ Here are some of my projects:
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <p>To email me, click <a href="mailto:abhishekkumarofficial1303@gmail.com" style="text-decoration: none; color: blue;">here</a>.</p>
-
 </div> 
 </p>
 Let's build something awesome together! 😄
