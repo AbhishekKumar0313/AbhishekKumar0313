@@ -4,7 +4,7 @@
 [![MasterHead](https://github.com/AbhishekKumar0313/AbhishekKumar0313/blob/main/Hii%20!%20I%20am%20Abhishek.png)](https://github.com/AbhishekKumar0313)
 ### Welcome to my GitHub profile! I'm passionate about technology and love building cool projects. Here's a bit about me:
 
-<table><tr><td valign="top" width="">
+<table><tr><td valign="" width="">
    
 ### Languages and Libraries
 <div align="center">  
@@ -22,7 +22,7 @@
     <img style="margin: 10px 20px;" src="https://icon.icepanel.io/Technology/svg/Ploty.svg" alt="plotly" height="50" /> 
 </div>
 
-</div></td><td valign="top" width="">
+</div></td><td valign="" width="">
 
 ### Tools, Databases, and OS
 <div align="center">  
@@ -39,7 +39,7 @@
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" height="50" />  
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" alt="Windows" height="50" />  
-</div></td><td valign="top" width="">
+</div></td><td valign="" width="">
 
 ### Technologies  
 <div align="center">
