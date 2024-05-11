@@ -63,9 +63,9 @@
 ## Projects
 Here are some of my projects:
 
-1. **Project 1:** [Project Description/Link]
-   - [Brief description of the project]
-   - [Technology stack used]
+1. **Project 1:** [[Project Description/Link](https://github.com/AbhishekKumar0313/Credit_Card_DashBoard/tree/main)]
+   - [Credit Card Management System - Power BI Project]
+   - [PowerBI,Microsoft Excel,MySQL,SQL]
 
 2. **Project 2:** [Project Description/Link]
    - [Brief description of the project]
