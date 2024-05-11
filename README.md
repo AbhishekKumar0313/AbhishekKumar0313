@@ -64,8 +64,8 @@
 Here are some of my projects:
 
 1. **Project 1:** [[Project Description/Link](https://github.com/AbhishekKumar0313/Credit_Card_DashBoard/tree/main)]
-   - [Credit Card Management System - Power BI Project]
-   - [PowerBI,Microsoft Excel,MySQL,SQL]
+   - The Credit Card Management System is a Power BI project designed to provide comprehensive insights into customer behavior and credit card transactions. This project leverages Power BI's robust visualization capabilities to analyze and present data in a meaningful way.
+   - **PowerBI,Microsoft Excel,MySQL,SQL**
 
 2. **Project 2:** [Project Description/Link]
    - [Brief description of the project]
