@@ -63,13 +63,13 @@
 ## Projects
 Here are some of my projects:
 
-1. **Project 1:** [[Project Description/Link](https://github.com/AbhishekKumar0313/Credit_Card_DashBoard/tree/main)]
+1. **Credit Card Management Dashboard:** [[Project Description/Link](https://github.com/AbhishekKumar0313/Credit_Card_DashBoard/tree/main)]
    - The Credit Card Management System is a Power BI project designed to provide comprehensive insights into customer behavior and credit card transactions. This project leverages Power BI's robust visualization capabilities to analyze and present data in a meaningful way.
    - **PowerBI,Microsoft Excel,MySQL,SQL**
 
-2. **Project 2:** [Project Description/Link]
-   - [Brief description of the project]
-   - [Technology stack used]
+2. **Churn Data Analysis:** [[Project Description/Link](https://github.com/AbhishekKumar0313/Churn-Data-Analysis/tree/main)]
+   - Leveraging advanced analytics and machine learning, we'll identify key factors contributing to churn and provide actionable recommendations to reduce turnover rates.
+   - **Looker Studio,Excel,Machine Learning,Google Colab,Google Cloud Platform,Big Query,Python,Pycaret**
 
 3. **Project 3:** [Project Description/Link]
    - [Brief description of the project]
