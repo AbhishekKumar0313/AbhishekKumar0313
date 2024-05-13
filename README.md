@@ -71,16 +71,12 @@ Here are some of my projects:
    - Leveraging advanced analytics and machine learning, we'll identify key factors contributing to churn and provide actionable recommendations to reduce turnover rates.
    - **Looker Studio,Excel,Machine Learning,Google Colab,Google Cloud Platform,Big Query,Python,Pycaret**
 
-3. **Project 3:** [Project Description/Link]
-   - [Brief description of the project]
-   - [Technology stack used]
 
 ## Skills
-- [Your Skill 1]
-- [Your Skill 2]
-- [Your Skill 3]
-- [Your Skill 4]
-- [Your Skill 5]
+- **Data Analytics**
+- **Machine Learning**
+- **Power BI and Looker Studio**
+- **Deep Learning**
 
 ## Connect with Me
 
